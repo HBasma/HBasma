@@ -47,7 +47,6 @@ Web Development • Image Processing • Cybersecurity
 * Multimedia Systems
 * Cybersecurity
 * Web Development
-* Artificial Intelligence
 
 ---
 <p align="center">
